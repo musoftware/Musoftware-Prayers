@@ -1,0 +1,26 @@
+F:\Production\Musoftware Prayers\Musoftware Prayers\bin\Debug\Musoftware Prayers.exe
+F:\Production\Musoftware Prayers\Musoftware Prayers\bin\Debug\Musoftware Prayers.pdb
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.csprojResolveAssemblyReference.cache
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.FrmAbout.resources
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.Frmmain.resources
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.FrmOption.resources
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.Properties.Resources.resources
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.csproj.GenerateResource.Cache
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.exe
+F:\Production\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.pdb
+F:\Production\Musoftware Prayers\Musoftware Prayers\bin\Debug\Prayers.dll
+F:\Production\Musoftware Prayers\Musoftware Prayers\bin\Debug\Prayers.pdb
+F:\Production\Musoftware Prayers\Musoftware Prayers\bin\Debug\Prayers.xml
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.exe
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.pdb
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\bin\Debug\Musoftware Prayers.exe
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\bin\Debug\Musoftware Prayers.pdb
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\bin\Debug\Prayers.dll
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\bin\Debug\Prayers.pdb
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\bin\Debug\Prayers.xml
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.csprojResolveAssemblyReference.cache
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.FrmAbout.resources
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.Frmmain.resources
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.FrmOption.resources
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware_Prayers.Properties.Resources.resources
+F:\123NewLive\Musoftware Prayers\Musoftware Prayers\obj\Debug\Musoftware Prayers.csproj.GenerateResource.Cache

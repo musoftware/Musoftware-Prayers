@@ -1,0 +1,16 @@
+F:\Production\Musoftware Prayers\Prayers\bin\Debug\Prayers.dll
+F:\Production\Musoftware Prayers\Prayers\bin\Debug\Prayers.pdb
+F:\Production\Musoftware Prayers\Prayers\bin\Debug\Prayers.xml
+F:\Production\Musoftware Prayers\Prayers\obj\Debug\Prayers.Resources.resources
+F:\Production\Musoftware Prayers\Prayers\obj\Debug\Prayers.vbproj.GenerateResource.Cache
+F:\Production\Musoftware Prayers\Prayers\obj\Debug\Prayers.dll
+F:\Production\Musoftware Prayers\Prayers\obj\Debug\Prayers.xml
+F:\Production\Musoftware Prayers\Prayers\obj\Debug\Prayers.pdb
+F:\123NewLive\Musoftware Prayers\Prayers\bin\Debug\Prayers.dll
+F:\123NewLive\Musoftware Prayers\Prayers\bin\Debug\Prayers.pdb
+F:\123NewLive\Musoftware Prayers\Prayers\bin\Debug\Prayers.xml
+F:\123NewLive\Musoftware Prayers\Prayers\obj\Debug\Prayers.Resources.resources
+F:\123NewLive\Musoftware Prayers\Prayers\obj\Debug\Prayers.vbproj.GenerateResource.Cache
+F:\123NewLive\Musoftware Prayers\Prayers\obj\Debug\Prayers.dll
+F:\123NewLive\Musoftware Prayers\Prayers\obj\Debug\Prayers.xml
+F:\123NewLive\Musoftware Prayers\Prayers\obj\Debug\Prayers.pdb
